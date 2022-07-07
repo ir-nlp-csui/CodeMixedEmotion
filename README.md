@@ -6,6 +6,7 @@ This dataset contains 825 tweets in Bahasa Indonesia with emotion labels associa
 
 ## References
 Please cite the following papers if you use this dataset:
+
 Yulianti, E., Kurnia, A., Adriani, M., & Duto, Y. S. (2021). Normalisation of Indonesian-English Code-Mixed Text and its Effect on Emotion Classification. International Journal of Advanced Computer Science and Applications, 12(11).
 
 ## Licence
