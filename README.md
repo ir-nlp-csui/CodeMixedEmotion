@@ -2,7 +2,7 @@
 (**EmotCMT** stands for **Emot**ion annotated **C**ode-**M**ixed **T**ext data)
 
 ## Introduction
-This dataset contains 825 tweets in Bahasa Indonesia with emotion labels associated to the tweets. Each tweet is assigned one emotion label. The corresponding labels used in this dataset are: love, fear, sadness, joy and anger. This dataset was built for our work on analysing the effect of Indonesian-English code-mixed normalisation on emotion clasification task. The detail process of the creation of this dataset is explained in our IJACSA paper below.
+This dataset contains 825 tweets of Indonesian-English code-mixed tweets with emotion labels associated to the tweets. Each tweet is assigned one emotion label. The corresponding labels used in this dataset are: love, fear, sadness, joy and anger. This dataset was built for our work on analysing the effect of Indonesian-English code-mixed normalisation on emotion clasification task. The detail process of the creation of this dataset is explained in our IJACSA paper below.
 
 ## References
 Please cite the following papers if you use this dataset:
