@@ -5,7 +5,7 @@
 This dataset contains 825 tweets of Indonesian-English code-mixed tweets with emotion labels associated to the tweets. Each tweet is assigned one emotion label. The corresponding labels used in this dataset are: love, fear, sadness, joy and anger. This dataset was built for our work on analysing the effect of Indonesian-English code-mixed normalisation on emotion clasification task. The detail process of the creation of this dataset is explained in our IJACSA paper below.
 
 ## References
-Please cite the following papers if you use this dataset:
+Please cite the following paper if you use this dataset:
 
 **Yulianti, E., Kurnia, A., Adriani, M., & Duto, Y. S. (2021).** <a href="https://thesai.org/Downloads/Volume12No11/Paper_77-Normalisation_of_Indonesian_English_Code_Mixed_Text.pdf">Normalisation of Indonesian-English Code-Mixed Text and its Effect on Emotion Classification</a>. International Journal of Advanced Computer Science and Applications, 12(11).
 
